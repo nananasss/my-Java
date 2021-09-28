@@ -1,4 +1,3 @@
-package week2tut;
 
 import java.util.Scanner;
 
