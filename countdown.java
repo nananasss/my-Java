@@ -1,4 +1,4 @@
-package week2tut;
+
 // rocket countdown
 
 public class countdown {
