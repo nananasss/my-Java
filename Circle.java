@@ -1,5 +1,4 @@
-package Assignment2;
-//Naseem Khaksar 217755992 ITEC 1620 section C
+
     public class Circle{
 	 private double radius;
 	 private String color;
