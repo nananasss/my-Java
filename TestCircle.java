@@ -1,5 +1,4 @@
 package Assignment2;
-//Naseem Khaksar 217755992 ITEC 1620 section C
 
 import java.util.Scanner;
 import java.text.DecimalFormat;
