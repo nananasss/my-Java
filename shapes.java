@@ -1,5 +1,3 @@
-package Assignment1;
- //Naseem Khaksar 217755992 ITEC1620 section c
 
 import java.util.Scanner;
 
